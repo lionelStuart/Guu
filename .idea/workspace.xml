@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ffeb7e8-0b69-4d3e-be06-bfa227b0771a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p4/base1/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/base1/engine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/base1/group.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/base1/group_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/base1/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/base1/router_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/base1/trie.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p4/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/engine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/group.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/group_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/router_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/base1/trie.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/cmd/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/mid/middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p5/mid/middleware_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/engine.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/group.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/group_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/router_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/base1/trie.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/cmd/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/demo/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/demo/static/css/geektutu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/demo/static/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/demo/templates/arr.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/demo/templates/css.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/demo/templates/custom_func.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/mid/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p6/mid/middleware_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +25,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DockManager">
     <window id="1">
@@ -53,37 +65,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/base1/context.go">
+        <entry file="file://$PROJECT_DIR$/p6/base1/engine.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/base1/engine.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            <state relative-caret-position="42">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <element signature="e#15#37#0" expanded="true" />
+                <element signature="e#15#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/base1/router.go">
+        <entry file="file://$PROJECT_DIR$/p6/demo/static/css/geektutu.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p6/demo/templates/arr.tmpl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/p6/demo/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="58">
+              <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+              <folding>
+                <element signature="e#501#565#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/cmd/main.go">
+        <entry file="file://$PROJECT_DIR$/p6/mid/middleware.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
               <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="20" />
@@ -92,49 +108,53 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/base1/trie.go">
+        <entry file="file://$PROJECT_DIR$/p6/mid/middleware_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/base1/group.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="586">
-              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/base1/router_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/p5/mid/middleware_test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="-63">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
-                <element signature="e#13#46#0" expanded="true" />
+                <element signature="e#13#64#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/p5/mid/middleware.go">
+        <entry file="file://$PROJECT_DIR$/p6/base1/group.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="588">
+              <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+              <folding>
+                <element signature="e#15#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p6/base1/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1197" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p6/cmd/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding>
+                <element signature="e#14#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/p6/base1/context.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1267">
+              <caret line="89" column="44" lean-forward="true" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -188,12 +208,19 @@
         <option value="$PROJECT_DIR$/p5/cmd/main.go" />
         <option value="$PROJECT_DIR$/p5/base1/group_test.go" />
         <option value="$PROJECT_DIR$/p5/mid/middleware_test.go" />
+        <option value="$PROJECT_DIR$/p6/mid/middleware.go" />
+        <option value="$PROJECT_DIR$/p6/base1/group.go" />
+        <option value="$PROJECT_DIR$/p6/base1/context.go" />
+        <option value="$PROJECT_DIR$/p6/mid/middleware_test.go" />
+        <option value="$PROJECT_DIR$/p6/cmd/main.go" />
+        <option value="$PROJECT_DIR$/p6/base1/engine.go" />
+        <option value="$PROJECT_DIR$/p6/demo/main.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1067" />
-    <option name="width" value="1074" />
+    <option name="x" value="-1210" />
+    <option name="width" value="1218" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -213,29 +240,57 @@
             <path>
               <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
               <item name="Guu" type="462c0819:PsiDirectoryNode" />
-              <item name="p4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Guu" type="462c0819:PsiDirectoryNode" />
               <item name="p5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
               <item name="Guu" type="462c0819:PsiDirectoryNode" />
-              <item name="p5" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Guu" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
               <item name="base1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
               <item name="Guu" type="462c0819:PsiDirectoryNode" />
-              <item name="p5" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
               <item name="cmd" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
               <item name="Guu" type="462c0819:PsiDirectoryNode" />
-              <item name="p5" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Guu" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Guu" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Guu" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Guu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Guu" type="462c0819:PsiDirectoryNode" />
+              <item name="p6" type="462c0819:PsiDirectoryNode" />
               <item name="mid" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -251,7 +306,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/p5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/p6/demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -260,6 +315,8 @@
       <recent name="D:\PHOENIX\Documents\WORKSPACE\Go\GO_WORKSPACE\Guu\p5\mid" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PHOENIX\Documents\WORKSPACE\Go\GO_WORKSPACE\Guu\p6\demo" />
+      <recent name="D:\PHOENIX\Documents\WORKSPACE\Go\GO_WORKSPACE\Guu\p6" />
       <recent name="D:\PHOENIX\Documents\WORKSPACE\Go\GO_WORKSPACE\Guu\p5" />
       <recent name="D:\PHOENIX\Documents\WORKSPACE\Go\GO_WORKSPACE\Guu\p4" />
       <recent name="D:\PHOENIX\Documents\WORKSPACE\Go\GO_WORKSPACE\Guu\p3\base1" />
@@ -277,12 +334,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestMiddleWare in Guu/p5/mid">
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Guu" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/p4/cmd/main.go" />
+      <filePath value="$PROJECT_DIR$/p6/demo/main.go" />
       <package value="Guu" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -333,18 +390,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Test.TestMiddleWare in Guu/p5/mid" />
         <item itemvalue="Go Test.TestRouterGroup in Guu/p5/mid" />
         <item itemvalue="Go Test.TestRouterGroup in Guu/p5/base1" />
         <item itemvalue="Go Test.TestRouterGroup in Guu/p4/base1" />
-        <item itemvalue="Go Build.go build main.go (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestContext_Json_in_Guu_p2_base1 - 2019.09.13 at 14h 11m 59s.xml">
-      <configuration name="TestContext_Json in Guu/p2/base1" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestContext_Json_in_Guu_p2_base1 - 2019.09.13 at 14h 12m 18s.xml">
       <configuration name="TestContext_Json in Guu/p2/base1" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -372,6 +426,9 @@
     <history-entry file="TestRouterGroup_in_Guu_p5_mid - 2019.09.14 at 14h 27m 58s.xml">
       <configuration name="TestRouterGroup in Guu/p5/mid" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TestMiddleWare_in_Guu_p5_mid - 2019.09.14 at 14h 30m 57s.xml">
+      <configuration name="TestMiddleWare in Guu/p5/mid" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -383,15 +440,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1237" y="0" width="859" height="830" extended-state="0" />
+    <frame x="-1425" y="0" width="1047" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23595506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19110212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289855" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29376855" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49554896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -399,7 +456,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32789317" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.21216618" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2106825" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -414,7 +471,8 @@
     <MESSAGE value="day1 :router complete" />
     <MESSAGE value="day2 : context complete  engine =&gt; context, router, engine" />
     <MESSAGE value="day3 : context trie tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="day3 : context trie tree" />
+    <MESSAGE value="day4 : router group&#10;day5 : middleware" />
+    <option name="LAST_COMMIT_MESSAGE" value="day4 : router group&#10;day5 : middleware" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -607,24 +665,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p5/base1/trie.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p5/base1/group.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        <state relative-caret-position="605">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/p5/base1/engine.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
           <folding>
             <element signature="e#15#37#0" expanded="true" />
           </folding>
@@ -635,13 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
           <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/p5/base1/context.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -662,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/p5/mid/middleware.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/p5/base1/router_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -676,12 +713,117 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/p5/base1/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p5/mid/middleware.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="e#13#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/p5/mid/middleware_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="551">
+          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
           <folding>
             <element signature="e#13#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p5/base1/trie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="55" column="5" lean-forward="true" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/base1/trie.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/base1/group_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/base1/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1267">
+          <caret line="89" column="44" lean-forward="true" selection-start-line="89" selection-start-column="44" selection-end-line="89" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/base1/group.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+          <folding>
+            <element signature="e#15#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/base1/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/demo/static/css/geektutu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/demo/templates/arr.tmpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/mid/middleware_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#13#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/cmd/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/mid/middleware.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/base1/engine.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#15#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p6/demo/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding>
+            <element signature="e#501#565#0" expanded="true" />
           </folding>
         </state>
       </provider>
